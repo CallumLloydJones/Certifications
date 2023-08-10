@@ -5,6 +5,7 @@ Online Course Certificates
 I have completed the following Codecademy courses in general data science.
 - Data Science (Foundations).
 - Data Science (Machine Learning).
+- Build Deep Learning Models with TensorFlow.
 
 The following subjects were covered in these courses.
 - Python Pandas for Data Science
@@ -18,8 +19,10 @@ The following subjects were covered in these courses.
 - Unsupervised Learning Algorithms
 - Ensemble Methods in Machine Learning
 - Deep Learning and Neural Networks
+- Implementing neural networks for regression, classification, and image classification. 
 
 The primary coding language involved in these courses was python, which I already had sufficient knowledge of beforehand. 
+
 
 ## Other courses
 - Learn R
